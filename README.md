@@ -60,38 +60,19 @@ Este repositório contém o planejamento, documentação, execução e automaç�
 
 ## Tipos de Teste
 
-✔ Funcional
+- Funcional
 
-✔ Exploratório
+- Exploratório
 
-✔ Regressão
+- Regressão
 
-✔ Usabilidade
+- Usabilidade
 
-✔ Compatibilidade
+- Compatibilidade
 
-✔ API
+- API
 
-✔ Automação
+- Automação
 
-## Roadmap
 
-- [x] Estrutura do projeto
 
-- [ ] Plano de Testes
-
-- [ ] Estratégia
-
-- [ ] Ambiente
-
-- [ ] Casos de Teste
-
-- [ ] Testes Exploratórios
-
-- [ ] Bugs
-
-- [ ] Relatórios
-
-- [ ] Automação
-
-- [ ] CI/CD
