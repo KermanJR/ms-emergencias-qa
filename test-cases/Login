@@ -1,0 +1,33 @@
+ID
+
+CT001
+
+Título
+
+Login válido
+
+Objetivo
+
+Validar autenticação.
+
+Pré-condições
+
+Usuário ativo.
+
+Passos
+
+1 Abrir aplicativo
+
+2 Informar e-mail
+
+3 Informar senha
+
+4 Clicar em Entrar
+
+Resultado esperado
+
+Usuário autenticado.
+
+Prioridade
+
+Alta
